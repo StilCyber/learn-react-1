@@ -1,0 +1,10 @@
+.field {
+    margin-top: 50px;
+
+}
+.field__text {
+    margin-bottom: 10px;
+}
+.field__input {
+    padding: 10px;
+}
