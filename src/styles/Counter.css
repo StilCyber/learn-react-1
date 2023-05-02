@@ -1,0 +1,16 @@
+.counter {
+
+}
+.counter__title {
+
+}
+.counter__button {
+    padding: 10px 15px;
+    margin-right: 20px;
+    background-color: aquamarine;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.counter__button:hover {
+    background-color: azure;
+}
